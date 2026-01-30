@@ -1,1 +1,18 @@
+# ESTADO DEL ARTE DE MI PROYECTO
+## Objetivos
+###1. Desarrollo e Integración Técnica
+El núcleo del proyecto es la creación de un hardware robusto y funcional.
+- Diseñar y motorizar un vehículo a escala con una arquitectura de sensores avanzada (ultrasónicos, acelerómetros, giroscopios e infrarrojos).
+- Establecer un puente de comunicación mediante Bluetooth para lograr una sincronización en tiempo real entre el hardware y la aplicación móvil.
+- Validar el desempeño de los sensores y actuadores para garantizar un sistema seguro, maniobrable y eficiente.
 
+###2. Educación y Divulgación 
+El proyecto busca cambiar la narrativa sobre cómo se aprende tecnología.
+- Fomentar el aprendizaje dinámico en las áreas de electrónica y telecomunicaciones.
+- Transformar el estudio técnico en una experiencia de ocio educativo orientada al público juvenil.
+- Demostrar la vertiente creativa y satisfactoria del rigor científico, alejándolo de la percepción tradicionalmente rígida.
+
+###3. Análisis de Interacción y Usabilidad
+No basta con que el coche se mueva; debe ser intuitivo para quien lo maneja.
+- Evaluar la curva de aprendizaje del usuario al interpretar el funcionamiento del vehículo y gestionar sus parámetros desde el software.
+- Garantizar el confort y la fiabilidad del sistema, asegurando que la respuesta del prototipo cumpla con las expectativas del usuario final.
